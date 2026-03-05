@@ -35,7 +35,7 @@ const milestones = [
     title: "Freelance Phase",
     role: "Creative Developer",
     description: "Working with clients building performant web experiences.",
-    year: "2025",
+    year: "2026",
     tech: ["Full Stack", "UI/UX", "APIs"],
   },
 ]
