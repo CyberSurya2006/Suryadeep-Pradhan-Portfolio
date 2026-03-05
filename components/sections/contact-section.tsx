@@ -106,7 +106,7 @@ export default function ContactSection() {
             ENGINEERED WITH PRECISION
           </p>
           <p className="font-mono text-[10px] tracking-[0.15em] uppercase text-foreground/30 hover:text-primary transition-colors duration-300 cursor-default">
-            Suryadeep Pradhan | 2024
+            Suryadeep Pradhan | 2026
           </p>
         </div>
       </div>
